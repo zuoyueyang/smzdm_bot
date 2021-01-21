@@ -31,7 +31,7 @@
 ```yml
 - cron: '0 0 * * *'
 ```
-语法同crontab，具体可百度，为美区时间，加8小时为中国时间   
+语法同crontab，具体可百度，为美区时间，加8小时为中国时间    
 
 
 
@@ -43,5 +43,5 @@
 first push
 
 + 2020-12-12  
-修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
+修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。    
 现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。
